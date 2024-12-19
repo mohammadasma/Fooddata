@@ -1,0 +1,245 @@
+ {
+   "Fooditem": [
+        {
+            "id": 1,
+            "name": "Margherita Pizza",
+            "price": 12.99,
+            "description": "Classic Italian pizza with fresh tomatoes, mozzarella, and basil.",
+            "category": "Italian",
+            "image": "https://example.com/images/margherita-pizza.jpg",
+            "rating": {
+                "rate": 4.5,
+                "count": 200
+            }
+        },
+        {
+            "id": 2,
+            "name": "Cheeseburger",
+            "price": 9.99,
+            "description": "Juicy beef patty with melted cheese, lettuce, and tomato on a sesame bun.",
+            "category": "American",
+            "image": "https://example.com/images/cheeseburger.jpg",
+            "rating": {
+                "rate": 4.3,
+                "count": 150
+            }
+        },
+        {
+            "id": 3,
+            "name": "Sushi Platter",
+            "price": 24.99,
+            "description": "Assorted sushi rolls with fresh fish, rice, and seaweed.",
+            "category": "Japanese",
+            "image": "https://example.com/images/sushi-platter.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 300
+            }
+        },
+        {
+            "id": 4,
+            "name": "Pasta Alfredo",
+            "price": 13.99,
+            "description": "Creamy Alfredo sauce served over fettuccine pasta.",
+            "category": "Italian",
+            "image": "https://example.com/images/pasta-alfredo.jpg",
+            "rating": {
+                "rate": 4.6,
+                "count": 180
+            }
+        },
+        {
+            "id": 5,
+            "name": "Chicken Tikka Masala",
+            "price": 14.99,
+            "description": "Spiced chicken cooked in a creamy tomato sauce.",
+            "category": "Indian",
+            "image": "https://example.com/images/chicken-tikka-masala.jpg",
+            "rating": {
+                "rate": 4.8,
+                "count": 250
+            }
+        },
+        {
+            "id": 6,
+            "name": "Caesar Salad",
+            "price": 8.99,
+            "description": "Crisp romaine lettuce with Caesar dressing, croutons, and Parmesan.",
+            "category": "Salad",
+            "image": "https://example.com/images/caesar-salad.jpg",
+            "rating": {
+                "rate": 4.4,
+                "count": 120
+            }
+        },
+        {
+            "id": 7,
+            "name": "Pad Thai",
+            "price": 12.49,
+            "description": "Stir-fried rice noodles with shrimp, peanuts, and a tangy sauce.",
+            "category": "Thai",
+            "image": "https://example.com/images/pad-thai.jpg",
+            "rating": {
+                "rate": 4.6,
+                "count": 220
+            }
+        },
+        {
+            "id": 8,
+            "name": "Tacos Al Pastor",
+            "price": 9.99,
+            "description": "Marinated pork served in a corn tortilla with pineapple and cilantro.",
+            "category": "Mexican",
+            "image": "https://example.com/images/tacos-al-pastor.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 170
+            }
+        },
+        {
+            "id": 9,
+            "name": "Ramen Bowl",
+            "price": 11.99,
+            "description": "Japanese noodle soup with a rich, savory broth and toppings.",
+            "category": "Japanese",
+            "image": "https://example.com/images/ramen-bowl.jpg",
+            "rating": {
+                "rate": 4.8,
+                "count": 280
+            }
+        },
+        {
+            "id": 10,
+            "name": "Greek Gyro",
+            "price": 10.99,
+            "description": "Pita bread stuffed with spiced meat, tzatziki sauce, and vegetables.",
+            "category": "Greek",
+            "image": "https://example.com/images/greek-gyro.jpg",
+            "rating": {
+                "rate": 4.5,
+                "count": 130
+            }
+        },
+        {
+            "id": 11,
+            "name": "Chicken Wings",
+            "price": 7.99,
+            "description": "Crispy fried chicken wings tossed in a spicy Buffalo sauce.",
+            "category": "American",
+            "image": "https://example.com/images/chicken-wings.jpg",
+            "rating": {
+                "rate": 4.6,
+                "count": 210
+            }
+        },
+        {
+            "id": 12,
+            "name": "Peking Duck",
+            "price": 34.99,
+            "description": "Crispy-skinned duck served with hoisin sauce and pancakes.",
+            "category": "Chinese",
+            "image": "https://example.com/images/peking-duck.jpg",
+            "rating": {
+                "rate": 4.9,
+                "count": 110
+            }
+        },
+        {
+            "id": 13,
+            "name": "Tom Yum Soup",
+            "price": 6.99,
+            "description": "Hot and sour Thai soup with shrimp and fragrant herbs.",
+            "category": "Thai",
+            "image": "https://example.com/images/tom-yum-soup.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 160
+            }
+        },
+        {
+            "id": 14,
+            "name": "Vegetable Stir-Fry",
+            "price": 10.49,
+            "description": "Colorful mixed vegetables stir-fried in a savory sauce.",
+            "category": "Vegetarian",
+            "image": "https://example.com/images/vegetable-stir-fry.jpg",
+            "rating": {
+                "rate": 4.5,
+                "count": 140
+            }
+        },
+        {
+            "id": 15,
+            "name": "Fish and Chips",
+            "price": 13.49,
+            "description": "Crispy fried fish served with golden fries and tartar sauce.",
+            "category": "British",
+            "image": "https://example.com/images/fish-and-chips.jpg",
+            "rating": {
+                "rate": 4.4,
+                "count": 190
+            }
+        },
+        {
+            "id": 16,
+            "name": "Beef Pho",
+            "price": 14.99,
+            "description": "Vietnamese noodle soup with tender beef and aromatic herbs.",
+            "category": "Vietnamese",
+            "image": "https://example.com/images/beef-pho.jpg",
+            "rating": {
+                "rate": 4.9,
+                "count": 300
+            }
+        },
+        {
+            "id": 17,
+            "name": "Chocolate Lava Cake",
+            "price": 6.99,
+            "description": "Warm chocolate cake with a gooey molten center.",
+            "category": "Dessert",
+            "image": "https://example.com/images/chocolate-lava-cake.jpg",
+            "rating": {
+                "rate": 4.8,
+                "count": 270
+            }
+        },
+        {
+            "id": 18,
+            "name": "Avocado Toast",
+            "price": 8.49,
+            "description": "Toasted bread topped with smashed avocado, olive oil, and spices.",
+            "category": "Breakfast",
+            "image": "https://example.com/images/avocado-toast.jpg",
+            "rating": {
+                "rate": 4.4,
+                "count": 90
+            }
+        },
+        {
+            "id": 19,
+            "name": "Miso Soup",
+            "price": 3.99,
+            "description": "Traditional Japanese soup with tofu, seaweed, and scallions.",
+            "category": "Japanese",
+            "image": "https://example.com/images/miso-soup.jpg",
+            "rating": {
+                "rate": 4.6,
+                "count": 130
+            }
+        },
+        {
+            "id": 20,
+            "name": "Panna Cotta",
+            "price": 5.99,
+            "description": "Italian dessert made with sweetened cream and gelatin.",
+            "category": "Dessert",
+            "image": "https://example.com/images/panna-cotta.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 160
+            }
+        }
+    ]
+    
+ }
