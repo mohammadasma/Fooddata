@@ -1,0 +1,244 @@
+{
+  "Medical":[
+        {
+            "id": 1,
+            "name": "Paracetamol 500mg",
+            "price": 2.99,
+            "description": "Pain reliever and fever reducer, suitable for mild to moderate pain.",
+            "category": "Tablet",
+            "image": "https://example.com/images/paracetamol-500mg.jpg",
+            "rating": {
+                "rate": 4.8,
+                "count": 250
+            }
+        },
+        {
+            "id": 2,
+            "name": "Ibuprofen 200mg",
+            "price": 3.49,
+            "description": "Non-steroidal anti-inflammatory drug for pain relief and inflammation.",
+            "category": "Tablet",
+            "image": "https://example.com/images/ibuprofen-200mg.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 190
+            }
+        },
+        {
+            "id": 3,
+            "name": "Cough Syrup",
+            "price": 5.99,
+            "description": "Soothing syrup for dry and productive cough relief.",
+            "category": "Syrup",
+            "image": "https://example.com/images/cough-syrup.jpg",
+            "rating": {
+                "rate": 4.5,
+                "count": 300
+            }
+        },
+        {
+            "id": 4,
+            "name": "Vitamin C Chewables",
+            "price": 6.49,
+            "description": "Vitamin C tablets to support immunity and prevent deficiencies.",
+            "category": "Tablet",
+            "image": "https://example.com/images/vitamin-c-chewables.jpg",
+            "rating": {
+                "rate": 4.6,
+                "count": 120
+            }
+        },
+        {
+            "id": 5,
+            "name": "Disposable Face Masks",
+            "price": 9.99,
+            "description": "Pack of 50 3-ply disposable face masks for respiratory protection.",
+            "category": "Mask",
+            "image": "https://example.com/images/face-masks.jpg",
+            "rating": {
+                "rate": 4.9,
+                "count": 500
+            }
+        },
+        {
+            "id": 6,
+            "name": "Hand Sanitizer",
+            "price": 4.99,
+            "description": "70% alcohol-based hand sanitizer for effective germ protection.",
+            "category": "Hygiene",
+            "image": "https://example.com/images/hand-sanitizer.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 450
+            }
+        },
+        {
+            "id": 7,
+            "name": "Multivitamin Capsules",
+            "price": 14.99,
+            "description": "Daily multivitamin for overall health and nutritional support.",
+            "category": "Capsule",
+            "image": "https://example.com/images/multivitamin-capsules.jpg",
+            "rating": {
+                "rate": 4.6,
+                "count": 220
+            }
+        },
+        {
+            "id": 8,
+            "name": "Antiseptic Cream",
+            "price": 3.49,
+            "description": "Topical cream for cuts, wounds, and minor skin infections.",
+            "category": "Cream",
+            "image": "https://example.com/images/antiseptic-cream.jpg",
+            "rating": {
+                "rate": 4.8,
+                "count": 310
+            }
+        },
+        {
+            "id": 9,
+            "name": "Digital Thermometer",
+            "price": 10.99,
+            "description": "Digital thermometer for accurate temperature measurement.",
+            "category": "Medical Device",
+            "image": "https://example.com/images/digital-thermometer.jpg",
+            "rating": {
+                "rate": 4.9,
+                "count": 400
+            }
+        },
+        {
+            "id": 10,
+            "name": "Cetirizine 10mg",
+            "price": 2.99,
+            "description": "Antihistamine for allergy relief, effective against sneezing and itching.",
+            "category": "Tablet",
+            "image": "https://example.com/images/cetirizine-10mg.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 180
+            }
+        },
+        {
+            "id": 11,
+            "name": "ORS Sachets",
+            "price": 1.99,
+            "description": "Oral rehydration salts to prevent dehydration during diarrhea.",
+            "category": "Powder",
+            "image": "https://example.com/images/ors-sachets.jpg",
+            "rating": {
+                "rate": 4.8,
+                "count": 240
+            }
+        },
+        {
+            "id": 12,
+            "name": "Hydrocortisone Cream",
+            "price": 4.49,
+            "description": "Topical steroid cream for itch and inflammation relief.",
+            "category": "Cream",
+            "image": "https://example.com/images/hydrocortisone-cream.jpg",
+            "rating": {
+                "rate": 4.6,
+                "count": 200
+            }
+        },
+        {
+            "id": 13,
+            "name": "Blood Pressure Monitor",
+            "price": 34.99,
+            "description": "Electronic device to measure blood pressure at home.",
+            "category": "Medical Device",
+            "image": "https://example.com/images/blood-pressure-monitor.jpg",
+            "rating": {
+                "rate": 4.9,
+                "count": 150
+            }
+        },
+        {
+            "id": 14,
+            "name": "Zinc Supplements",
+            "price": 8.99,
+            "description": "Essential mineral supplement to boost immunity and overall health.",
+            "category": "Tablet",
+            "image": "https://example.com/images/zinc-supplements.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 300
+            }
+        },
+        {
+            "id": 15,
+            "name": "Nebulizer Machine",
+            "price": 49.99,
+            "description": "Medical device for delivering medication directly to the lungs.",
+            "category": "Medical Device",
+            "image": "https://example.com/images/nebulizer-machine.jpg",
+            "rating": {
+                "rate": 4.8,
+                "count": 100
+            }
+        },
+        {
+            "id": 16,
+            "name": "Bandages",
+            "price": 2.49,
+            "description": "Pack of 50 adhesive bandages for wound protection.",
+            "category": "Hygiene",
+            "image": "https://example.com/images/bandages.jpg",
+            "rating": {
+                "rate": 4.9,
+                "count": 450
+            }
+        },
+        {
+            "id": 17,
+            "name": "Amoxicillin 500mg",
+            "price": 6.99,
+            "description": "Antibiotic for bacterial infections, prescribed by a doctor.",
+            "category": "Capsule",
+            "image": "https://example.com/images/amoxicillin-500mg.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 250
+            }
+        },
+        {
+            "id": 18,
+            "name": "Antacid Syrup",
+            "price": 3.99,
+            "description": "Liquid antacid for quick relief from heartburn and acidity.",
+            "category": "Syrup",
+            "image": "https://example.com/images/antacid-syrup.jpg",
+            "rating": {
+                "rate": 4.5,
+                "count": 190
+            }
+        },
+        {
+            "id": 19,
+            "name": "N95 Masks",
+            "price": 15.99,
+            "description": "Pack of 5 N95 masks for high-level respiratory protection.",
+            "category": "Mask",
+            "image": "https://example.com/images/n95-masks.jpg",
+            "rating": {
+                "rate": 4.8,
+                "count": 350
+            }
+        },
+        {
+            "id": 20,
+            "name": "Electrolyte Powder",
+            "price": 1.49,
+            "description": "Powder to replenish electrolytes and prevent dehydration.",
+            "category": "Powder",
+            "image": "https://example.com/images/electrolyte-powder.jpg",
+            "rating": {
+                "rate": 4.6,
+                "count": 280
+            }
+        }
+    ]
+}

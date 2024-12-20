@@ -15,6 +15,7 @@ const cors = require("cors"); // Import the cors library
 
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
+const router1 = jsonServer.router("db1.json");
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 8080; // Choose port like 8080, 3001
 
@@ -26,6 +27,7 @@ server.use(middlewares);
 
 // Use the JSON Server router
 server.use(router);
+server.use(router1)
 
 // Start the server
 server.listen(port, () => {
