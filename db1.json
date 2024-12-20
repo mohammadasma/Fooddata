@@ -6,7 +6,7 @@
             "price": 2.99,
             "description": "Pain reliever and fever reducer, suitable for mild to moderate pain.",
             "category": "Tablet",
-            "image": "https://example.com/images/paracetamol-500mg.jpg",
+            "image": "https://th.bing.com/th?id=OIP.t5IGbhDjfH0ZX8DBpaoEGAHaGW&w=269&h=231&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
             "rating": {
                 "rate": 4.8,
                 "count": 250
@@ -18,7 +18,7 @@
             "price": 3.49,
             "description": "Non-steroidal anti-inflammatory drug for pain relief and inflammation.",
             "category": "Tablet",
-            "image": "https://example.com/images/ibuprofen-200mg.jpg",
+            "image": "https://th.bing.com/th?id=OIP.3lkJ6mZvaNZ1OIdjkc_pRgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
             "rating": {
                 "rate": 4.7,
                 "count": 190
@@ -30,8 +30,8 @@
             "price": 5.99,
             "description": "Soothing syrup for dry and productive cough relief.",
             "category": "Syrup",
-            "image": "https://example.com/images/cough-syrup.jpg",
-            "rating": {
+            "image" :" https://th.bing.com/th?id=OIP.Pr8UjMtRTmR2IxqeOc4j8QAAAA&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
+              "rating": {
                 "rate": 4.5,
                 "count": 300
             }
@@ -42,7 +42,7 @@
             "price": 6.49,
             "description": "Vitamin C tablets to support immunity and prevent deficiencies.",
             "category": "Tablet",
-            "image": "https://example.com/images/vitamin-c-chewables.jpg",
+            "image": "https://th.bing.com/th?id=OIP.lQqJL1_IE9pc8dCfOsudngHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
             "rating": {
                 "rate": 4.6,
                 "count": 120
@@ -54,7 +54,7 @@
             "price": 9.99,
             "description": "Pack of 50 3-ply disposable face masks for respiratory protection.",
             "category": "Mask",
-            "image": "https://example.com/images/face-masks.jpg",
+            "image": "https://th.bing.com/th?id=OIP.sgTzd_WSnvN1SZTL7Sfz-wHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
             "rating": {
                 "rate": 4.9,
                 "count": 500
@@ -66,7 +66,7 @@
             "price": 4.99,
             "description": "70% alcohol-based hand sanitizer for effective germ protection.",
             "category": "Hygiene",
-            "image": "https://example.com/images/hand-sanitizer.jpg",
+            "image": "https://th.bing.com/th?id=OIP.6rRXL9A3y6ehMW-ot9DYEgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
             "rating": {
                 "rate": 4.7,
                 "count": 450
@@ -78,7 +78,7 @@
             "price": 14.99,
             "description": "Daily multivitamin for overall health and nutritional support.",
             "category": "Capsule",
-            "image": "https://example.com/images/multivitamin-capsules.jpg",
+            "image": "https://th.bing.com/th?id=OIP.x3Q-ON-05pivC15f5RN5nQHaGw&w=261&h=238&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
             "rating": {
                 "rate": 4.6,
                 "count": 220
@@ -90,7 +90,7 @@
             "price": 3.49,
             "description": "Topical cream for cuts, wounds, and minor skin infections.",
             "category": "Cream",
-            "image": "https://example.com/images/antiseptic-cream.jpg",
+            "image": "https://th.bing.com/th?id=OIP.KmagaPiofGEViLZYlvAtaAHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
             "rating": {
                 "rate": 4.8,
                 "count": 310
@@ -102,7 +102,7 @@
             "price": 10.99,
             "description": "Digital thermometer for accurate temperature measurement.",
             "category": "Medical Device",
-            "image": "https://example.com/images/digital-thermometer.jpg",
+            "image": "https://th.bing.com/th?id=OIP.4GcFxTlsEs2JOleJKvq9xwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
             "rating": {
                 "rate": 4.9,
                 "count": 400
@@ -114,7 +114,7 @@
             "price": 2.99,
             "description": "Antihistamine for allergy relief, effective against sneezing and itching.",
             "category": "Tablet",
-            "image": "https://example.com/images/cetirizine-10mg.jpg",
+            "image": "https://th.bing.com/th?id=OIP.H114GxcWjJTtqW5UZZClbwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
             "rating": {
                 "rate": 4.7,
                 "count": 180
@@ -126,7 +126,7 @@
             "price": 1.99,
             "description": "Oral rehydration salts to prevent dehydration during diarrhea.",
             "category": "Powder",
-            "image": "https://example.com/images/ors-sachets.jpg",
+            "image": "https://th.bing.com/th?id=OIP.OF5XLY-2v9TooVvIcZu2uwAAAA&w=299&h=208&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
             "rating": {
                 "rate": 4.8,
                 "count": 240
@@ -138,7 +138,7 @@
             "price": 4.49,
             "description": "Topical steroid cream for itch and inflammation relief.",
             "category": "Cream",
-            "image": "https://example.com/images/hydrocortisone-cream.jpg",
+            "image": "https://th.bing.com/th?id=OIP.Zb4V12MiJ80iIXEBMQYEbQHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
             "rating": {
                 "rate": 4.6,
                 "count": 200
@@ -150,7 +150,7 @@
             "price": 34.99,
             "description": "Electronic device to measure blood pressure at home.",
             "category": "Medical Device",
-            "image": "https://example.com/images/blood-pressure-monitor.jpg",
+            "image": "https://th.bing.com/th?id=OIP.hKwsKwLjErHlLlPc3h4eKwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
             "rating": {
                 "rate": 4.9,
                 "count": 150
@@ -162,7 +162,7 @@
             "price": 8.99,
             "description": "Essential mineral supplement to boost immunity and overall health.",
             "category": "Tablet",
-            "image": "https://example.com/images/zinc-supplements.jpg",
+            "image": "https://th.bing.com/th?id=OIP.wu0NmrK9rXWtSJYEV_nCrwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
             "rating": {
                 "rate": 4.7,
                 "count": 300
@@ -174,7 +174,7 @@
             "price": 49.99,
             "description": "Medical device for delivering medication directly to the lungs.",
             "category": "Medical Device",
-            "image": "https://example.com/images/nebulizer-machine.jpg",
+            "image": "https://th.bing.com/th?id=OIP.MvShLwMT5heQ4IstjvpIbAHaGH&w=275&h=227&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
             "rating": {
                 "rate": 4.8,
                 "count": 100
@@ -186,7 +186,7 @@
             "price": 2.49,
             "description": "Pack of 50 adhesive bandages for wound protection.",
             "category": "Hygiene",
-            "image": "https://example.com/images/bandages.jpg",
+            "image": "https://th.bing.com/th?id=OIP.JeXrIbgSvc9osUw3mZ8JewHaHd&w=248&h=251&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
             "rating": {
                 "rate": 4.9,
                 "count": 450
@@ -198,7 +198,7 @@
             "price": 6.99,
             "description": "Antibiotic for bacterial infections, prescribed by a doctor.",
             "category": "Capsule",
-            "image": "https://example.com/images/amoxicillin-500mg.jpg",
+            "image": "https://th.bing.com/th?id=OIP.pe9PzhNHVRZOfujweFKRqAHaFl&w=287&h=217&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
             "rating": {
                 "rate": 4.7,
                 "count": 250
@@ -210,7 +210,7 @@
             "price": 3.99,
             "description": "Liquid antacid for quick relief from heartburn and acidity.",
             "category": "Syrup",
-            "image": "https://example.com/images/antacid-syrup.jpg",
+            "image": "https://th.bing.com/th?id=OIP.qMgT9JWANxJ2p5XyD0K-egHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
             "rating": {
                 "rate": 4.5,
                 "count": 190
@@ -222,7 +222,7 @@
             "price": 15.99,
             "description": "Pack of 5 N95 masks for high-level respiratory protection.",
             "category": "Mask",
-            "image": "https://example.com/images/n95-masks.jpg",
+            "image": "https://th.bing.com/th?id=OIP.pBnhcElMeAEixmPc2uclhQHaFc&w=291&h=214&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
             "rating": {
                 "rate": 4.8,
                 "count": 350
@@ -234,7 +234,7 @@
             "price": 1.49,
             "description": "Powder to replenish electrolytes and prevent dehydration.",
             "category": "Powder",
-            "image": "https://example.com/images/electrolyte-powder.jpg",
+            "image": "https://th.bing.com/th?id=OIP.ZiMJBVEgB08M1iY32ibMIwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
             "rating": {
                 "rate": 4.6,
                 "count": 280
